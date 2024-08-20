@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=charantejabs-cherrypy" alt="charantejabs-cherrypy" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/CharanTejaBS-cherrypy](https://github.com/CharanTejaBS-cherrypy)
+- 👨‍💻 All of my projects are available at [https://github.com/CharanTejaBS-cherrypy](https://github.com/CharanTejaBS-cherrypy) and at[https://github.com/CharanTejaBS6/](https://github.com/CharanTejaBS6)
 
 - 📫 How to reach me **charansrinivas51514@gmail.com**
 
