@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charantejabs-cherrypy&label=Profile%20views&color=0e75b6&style=flat" alt="charantejabs-cherrypy" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=charantejabs-cherrypy" alt="charantejabs-cherrypy" /></a> </p>
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=charantejabs-cherrypy" alt="charantejabs-cherrypy" /></a> </p> -->
 
 - 👨‍💻 All of my projects are available at [https://github.com/CharanTejaBS-cherrypy](https://github.com/CharanTejaBS-cherrypy) and at[https://github.com/CharanTejaBS6/](https://github.com/CharanTejaBS6)
 
