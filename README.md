@@ -1,4 +1,4 @@
-<!--<h1 align="center">Hi 👋, I'm Charan</h1>
+<h1 align="center">Hi 👋, I'm Charan</h1>
 <h3 align="center">A passionate Data Scientist and Python Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charantejabs-cherrypy&label=Profile%20views&color=0e75b6&style=flat" alt="charantejabs-cherrypy" /> </p>
@@ -23,4 +23,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=charantejabs-cherrypy&show_icons=true&locale=en" alt="charantejabs-cherrypy" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=charantejabs-cherrypy&" alt="charantejabs-cherrypy" /></p>-->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=charantejabs-cherrypy&" alt="charantejabs-cherrypy" /></p>
